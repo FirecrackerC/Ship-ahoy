@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f991bcf00e899244aacaef2865641a06
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Old London Alternate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 060ef3f972c274042a266e8f1c50c02f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
